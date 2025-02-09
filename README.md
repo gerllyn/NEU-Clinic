@@ -3,7 +3,7 @@ CCS322-18/Software Engineering 2
 
 ## Project name: New Era University Clinic Website
 
-### 3BSCS-1 Team members: 
+### FullStack team members: 
 Scrum Master: Gerlyn Gaoat  
 Analyst/Designer: Josh Yvan Cruz  
 Developer 1: Jairus Joshua Ramos  
