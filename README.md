@@ -1,4 +1,4 @@
-# Project name: New Era University Clinic Website  
+# New Era University Clinic Website  
 CCS322-18/Software Engineering 2  
 ## FullStack Team Members: 
 Scrum Master: Gerlyn Gaoat  
