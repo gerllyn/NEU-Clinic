@@ -1,9 +1,9 @@
-# NEU-clinic
+# NEU-Clinic
 CCS322-18/Software Engineering 2
 
 ## Project name: New Era University Clinic Website
 
-### FullStack team members: 
+### FullStack Team Members: 
 Scrum Master: Gerlyn Gaoat  
 Analyst/Designer: Josh Yvan Cruz  
 Developer 1: Jairus Joshua Ramos  
