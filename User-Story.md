@@ -1,6 +1,6 @@
 **User Stories**
 
-1. As a clinic staff, I want to have a "remember me" feature in the log in so that i can easily log in to browse student records.
+1. As a user, I want to have a "remember me" feature in the log in so that i can easily log in to browse student records.
 
 2. As an admin, I want a responsive design so that the system works well on both computers and tablets.
 
@@ -16,9 +16,9 @@
 
 8. As a receptionist, I want to mark students who need special medical attention so that they receive priority care.
 
-9. As a clinic staff, I want a dark mode option so that I can reduce eye strain when using the system for long hours.
+9. As a user, I want a dark mode option so that I can reduce eye strain when using the system for long hours.
 
-10. As an admin, I want to integrate barcode scanning for student IDs so that searching for records is faster and more accurate.
+10. As a clinic staff, I want to integrate barcode scanning for student IDs so that searching for records is faster and more accurate.
 
 11. As an admin, I want to track login activities so that I can monitor who accessed the system and when.
 
